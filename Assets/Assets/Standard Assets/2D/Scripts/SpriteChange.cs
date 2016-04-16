@@ -17,7 +17,7 @@ public class SpriteChange : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space)) // If the space bar is pushed down
+        if (Input.GetKeyDown(KeyCode.Alpha1)) // If the space bar is pushed down
         {
             ChangeTheDamnSprite(); // call method to change sprite
         }
