@@ -28,3 +28,6 @@ Build/*
 # http://stackoverflow.com/questions/1022111/what-are-monodevelops-pidb-files 
 *.pidb 
 *.userprefs 
+Library/expandedItems
+Library/CurrentLayout.dwlt
+Library/LastSceneManagerSetup.txt
