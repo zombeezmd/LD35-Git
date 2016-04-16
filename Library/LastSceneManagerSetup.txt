@@ -1,0 +1,4 @@
+sceneSetups:
+- path: LD35 - Shapeshift/Assets/LD35.unity
+  isLoaded: 1
+  isActive: 1
